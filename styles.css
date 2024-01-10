@@ -46,12 +46,14 @@ h4{
 ol{ margin-bottom: 2%;
 }
 
+/* this is my id selector */
 .images-div{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
 
+/* this is my element selector */
 #italic{
     font-style: italic;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
